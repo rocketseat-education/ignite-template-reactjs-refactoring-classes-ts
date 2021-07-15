@@ -21,6 +21,8 @@ export const Container = styled.div`
     img {
       pointer-events: none;
       user-select: none;
+      max-width: 100%;
+      display: block;
     }
   }
 
